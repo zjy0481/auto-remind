@@ -1,0 +1,7 @@
+任务已完成｜${task}
+
+结果：${summary}
+${verification_line}
+${artifact_line}
+
+可以回到电脑查看完整结果。

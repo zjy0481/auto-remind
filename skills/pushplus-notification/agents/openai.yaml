@@ -1,0 +1,5 @@
+interface:
+  display_name: "完成提醒（PushPlus）"
+  short_description: "仅在明确要求时，在当前任务完成并验证后通过 PushPlus 发送微信提醒"
+policy:
+  allow_implicit_invocation: false
